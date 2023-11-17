@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
+    <title>document</title>
     <style>
         
         .groupe-container {
@@ -58,7 +59,7 @@
                 les rues seront emplies de la diversité culturelle des supporters du monde entier,
                 créant une symphonie de couleurs et de chants
             </p>
-            <button class="text-green-900 bg-black h-[15%] w-[15%] rounded-2xl">CALENDRIER</button>
+           <a href="details.php"  class="text-green-900 bg-black h-[15%] w-[15%] rounded-2xl"> <button class="flex h-[100%] w-[100%] justify-center items-center text-center" >Détails</button></a>
         </div>
     </section>
 
